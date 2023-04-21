@@ -1,21 +1,14 @@
-### Hi there 👋
+# Welcome to my Github Portfolio
 
-<!
-**danielquilo/danielquilo** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on Applied Nutrition
-- 🌱 I’m currently learning HTML, CSS, JAVASCRIPTS <br>
 
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/daniel-quilo-209150224/target_blank)            
 
 [![Facebook](https://img.shields.io/badge/Facebook-1877F2?style=for-the-badge&logo=facebook&logoColor=white)](https://www.facebook.com/profile.php?id=100082146172361)  
 
-[![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)]
+![Telegram](	https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
 
 
-[![GitHub Status(https://github-readme-stats.vercel.app/api/top-langs/?username=danielquilo&theme=dracula)]
+![GitHub Status](https://github-readme-stats.vercel.app/api/top-langs/?username=danielquilo&theme=dracula)
 
 
 ### Technology I use every day
