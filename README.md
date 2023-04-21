@@ -3,7 +3,7 @@
 👋 Hi, I’m @danielquilo
 
 
-⚽️ I’m currently working at Applied Nutrition
+ I’m currently working at Applied Nutrition
 
 👨🏼‍🎓 I’m currently learning Coding Bootcamp, Teach Educators LTD.
 
